@@ -1,0 +1,5 @@
+1. Create Java package name "testing"
+2. Create Java Class name "JunitTesing"
+3. Creaet JUnit Test Case name "squareTest" to test the square method in JunitTesting class then run
+4. Create Junit Test Case name "countATest" to test the countA method in JunitTesing class then run
+5. Create Junit Test Suite name "AllTest" to test all created JUnit Test Case class then run
